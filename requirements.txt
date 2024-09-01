@@ -1,0 +1,16 @@
+ensure==1.0.4
+Flask==3.0.3
+langchain==0.2.5
+langchain_chroma==0.1.1
+langchain_community==0.2.5
+numpy==1.24.4
+pandas==2.0.3
+python-dotenv==1.0.1
+PyYAML==6.0.1
+setuptools==56.0.0
+streamlit==1.36.0
+tiktoken 
+chromadb
+python-dotenv
+pyreqs
+-e .
